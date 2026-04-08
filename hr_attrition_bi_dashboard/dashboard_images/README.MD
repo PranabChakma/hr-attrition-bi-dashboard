@@ -5,7 +5,7 @@ This project analyzes HR employee data to identify the key factors influencing e
 The objective of this project is to help HR teams identify high-risk employee groups and develop retention strategies.
 
 ## Dashboard
-[Click Here](./HR Analytics Dashboard.png) 
+[Click Here](./HR_Analytics_Dashboard.png) 
 
 ## Key Metrics from Dashboard
 Metric	Value
