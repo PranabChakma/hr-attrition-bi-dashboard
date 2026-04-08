@@ -10,10 +10,10 @@ The objective of this project is to help HR teams identify high-risk employee gr
 ## Key Metrics from Dashboard
 Metric	Value
 Total Employees	1,470
+Attrition Ratio 16%
 Total Attrition	238
 Average Employee Age	36.92
 Average Salary	6.50K
-Average Years at Company	7.01
 
 ## Dashboard Analysis
 ## Attrition by Age
