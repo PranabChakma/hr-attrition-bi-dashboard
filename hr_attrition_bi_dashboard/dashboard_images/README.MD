@@ -4,7 +4,7 @@ This project analyzes HR employee data to identify the key factors influencing e
 
 The objective of this project is to help HR teams identify high-risk employee groups and develop retention strategies.
 
-## Dashboard
+## Static Dashboard
 [Click Here](./HR_Analytics_Dashboard.png) 
 ## Live Dashboard
 (https://app.powerbi.com/groups/me/reports/768b1d2f-4c44-46f0-aa37-ad19b9ae71d8?ctid=2b457b87-6f7e-429f-aab8-315709222b9d&pbi_source=linkShare)
